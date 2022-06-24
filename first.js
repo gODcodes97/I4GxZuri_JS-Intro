@@ -1,0 +1,1 @@
+document.write('Name: Chime Chukwubuike Victory<br>Height: 6ft<br>Country: Nigeria');
